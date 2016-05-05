@@ -1,0 +1,9 @@
+project week!
+
+build a legend of zelda game that runs the first level of the original game then ends at the point where you get the sword
+
+*menu with start game and quit
+*not an exact replica of the game but a similar map
+*a couple creatures with random movements around
+*try to make the ai and user have different colors
+*end game with a congratulations screen when finished
