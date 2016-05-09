@@ -8,7 +8,6 @@ namespace projectweek
 {
     public class enemy01 : enemy
     {
-
         public static void move()
         {
             Random rnd = new Random();
