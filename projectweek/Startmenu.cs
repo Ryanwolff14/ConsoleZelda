@@ -8,11 +8,9 @@ namespace projectweek
 {
     public class Startmenu
     {
-        public const ConsoleColor FOREGROUND_COLOR = ConsoleColor.Cyan;
 
         public static void MENU()
         {
-            Console.ForegroundColor = FOREGROUND_COLOR;
             Console.WriteLine("WELCOME HERO!!");
             System.Threading.Thread.Sleep(500);
             Console.WriteLine("THE WORLD NEEDS YOU");
@@ -24,7 +22,6 @@ namespace projectweek
             {
                 Console.WriteLine("GET READY!");
                 System.Threading.Thread.Sleep(1000);
-                Console.ForegroundColor = ConsoleColor.Black;
             }
             else if (answer.Equals("2"))
             {

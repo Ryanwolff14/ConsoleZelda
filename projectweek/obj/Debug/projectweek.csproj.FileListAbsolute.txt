@@ -1,0 +1,6 @@
+C:\Program Files\PersonalFolder\projects\VisualStudio\projectweek\projectweek\obj\Debug\projectweek.csprojResolveAssemblyReference.cache
+C:\Program Files\PersonalFolder\projects\VisualStudio\projectweek\projectweek\bin\Debug\projectweek.exe.config
+C:\Program Files\PersonalFolder\projects\VisualStudio\projectweek\projectweek\bin\Debug\projectweek.exe
+C:\Program Files\PersonalFolder\projects\VisualStudio\projectweek\projectweek\bin\Debug\projectweek.pdb
+C:\Program Files\PersonalFolder\projects\VisualStudio\projectweek\projectweek\obj\Debug\projectweek.exe
+C:\Program Files\PersonalFolder\projects\VisualStudio\projectweek\projectweek\obj\Debug\projectweek.pdb

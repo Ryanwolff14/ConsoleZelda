@@ -8,10 +8,13 @@ namespace projectweek
 {
     public class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
             Startmenu.MENU();
-            Maingame.game();
+            Console.Clear();
+            Game g = new Game();
+            Console.CursorVisible = false;
+            g.Start();
         }
     }
 }
