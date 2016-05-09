@@ -12,7 +12,6 @@ namespace projectweek
 
         public static void move()
         {
-
             InitAI();
             Random rnd = new Random();
             int Direction = 0;
